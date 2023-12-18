@@ -1,1 +1,3 @@
 Hello Shark!
+
+Changes in 'hello.txt'. This file also changed.
